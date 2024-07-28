@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959836519038",
+    "project_id": "bartering-app-71521",
+    "storage_bucket": "bartering-app-71521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959836519038:android:33cee31343307d571ff62f",
+        "android_client_info": {
+          "package_name": "com.example.barteringapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pAnuO8hIuWuCrHEfxDWJiogQ5GsRi68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
